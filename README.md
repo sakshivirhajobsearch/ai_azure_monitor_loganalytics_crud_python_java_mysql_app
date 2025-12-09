@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Azure, GAN, Java, MySQL, Python
+- **Detected Technologies:** Python, Java (Maven/Gradle), Flask, scikit-learn, MySQL, Azure
 - **GitHub Topics:** None
 
 ---
